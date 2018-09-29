@@ -38,7 +38,7 @@ Based on user role required access is provided.
 
 Admin enter his\her credential at the home page:
 
-![login page](images/image2.png)
+![login page](images/image3.png)
 
 
 Post authenticating details Admin entered the application:
