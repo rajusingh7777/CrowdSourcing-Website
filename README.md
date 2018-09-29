@@ -32,18 +32,18 @@ OAuth 2.0 Bearer Token is used to authenticate a request by the server that the 
 
 User can register through the Register Page:
 
-[register page](images/image2.png)
+![register page](images/image2.png)
 
 Based on user role required access is provided.
 
 Admin enter his\her credential at the home page:
 
-[login page](images/image2.png)
+![login page](images/image2.png)
 
 
 Post authenticating details Admin entered the application:
 
-[home page](images/image5.png)
+![home page](images/image5.png)
 
 The above page shows the different role types and their corresponding id.
 
@@ -52,24 +52,22 @@ Admin can create/view/delete the Roles as appropriate.
 
 Startup may fall in any one of the following categories.
 
-[category page](images/image6.png) 
+![category page](images/image6.png) 
 
 
 Now, how much a startup has made progress of its funding and its unique idea is shown below:
 
-[project idea page](images/image7.png)
+![project idea page](images/image7.png)
 
 
 When a user click on view button to see how much progress has been made it will navigate to the Investor page and can see who has made the contribution for the project.
 
-[funder details page](images/image8.png)
+![funder details page](images/image8.png)
 
 When a creator login the page s/he has only access to the Project ideas page.
 
-[creator login project page](images/image9.png)
+![creator login project page](images/image9.png)
 
 Below page has no access to the Startup creator.
 
-[creator login denied page access](images/image10.png)
-
-
+![creator login denied page access](images/image10.png)
